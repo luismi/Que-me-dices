@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Consejo-1!"
+title: "Tener perro en hogueras"
 ---
 
 ## Ahora que se acercan las Hogueras, tenemos una preocupación. Cómo evitar el miedo a los petardos?
