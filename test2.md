@@ -11,4 +11,4 @@ title: "Tener perro en hogueras"
 
 
 
-![Cuando escuchas los petardos en las Hogueras, pero tratas de mantener la calma para no asustar a tu perro](/assets/images/bearly-generated-image-YZDQXP.png)
+![Cuando escuchas los petardos en las Hogueras, pero tratas de mantener la calma para no asustar a tu perro](/assets/img/bearly-generated-image-YZDQXP.png)
